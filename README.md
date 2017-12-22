@@ -13,4 +13,4 @@ The web is an open platform. Unlike the mobile application stores, there are no 
 ## Creating web applications is the art of generating HTML
 Whenever we are writing a web application, we will inevitably get to the point where we need to generate HTML. It does not matter what programming language we use (Ruby, Python, JavaScript). At some point, our code will output HTML, and if we want to interact with our websites, our code will need to know how to interpret HTML.
 
-This is why knowing HTML is important. It's what will allow us to get the applications we will write and share them with billions of people on the web.
+Now you know why knowing HTML is important. It's what will allow us to share the applications we write with billions of people on the web.
