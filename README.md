@@ -9,8 +9,9 @@ address that concern.
 
 ## The Web Platform
 
-At some point, we will want to allow others to use our applications, typically
-over the web.
+At some point, we will want to allow others to use our applications. Employers,
+technologists, and customers will assume Web integration as a standard "first
+option" for delivery.
 
 The web is an open platform. Unlike the mobile application stores, there are no
 gatekeepers. Everyone can publish applications on the web as long as they
