@@ -2,8 +2,7 @@
 
 ## Ruby As a Tool to Write for the Web
 
-Why are we taking this short break from Ruby? It allows us
-to write code with an incredibly expressive programming language. At some
+Why are we taking this short break from Ruby? At some
 point, we will want to allow others to use our applications, ideally over the
 web.
 
