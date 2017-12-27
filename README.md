@@ -42,7 +42,7 @@ in HTML**.
 Whenever we are writing a web application. It does not matter what programming language we
 use (Ruby, Python, JavaScript). At some point, our code will output HTML, and
 if we want to interact with our websites, our code will need to know how to
-interpret HTML.
+generate HTML.
 
 Now you know why knowing HTML is important. It's what will allow us to share
 the applications we write with billions of people on the web.
