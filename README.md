@@ -2,7 +2,7 @@
 
 ## We Adore Ruby, and We Love the Web
 
-At Flatiron we adore Ruby, but our true love is for the web. The web is an
+The web is an
 amazing creation. Over the next few lessons, we hope to convey our love for the
 web.
 
