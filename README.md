@@ -5,9 +5,6 @@
 Over the next few lessons, we hope to convey our love for the
 web.
 
-Armed with your passion, determination, creativity and the skills you will
-learn.
-
 ## Ruby As a Tool to Write for the Web
 
 Why are we taking this short break from Ruby? Ruby is just a tool. It allows us
