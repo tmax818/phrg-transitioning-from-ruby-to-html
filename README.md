@@ -11,15 +11,34 @@ address that concern.
 
 At some point, we will want to allow others to use our applications. Employers,
 technologists, and customers will assume Web integration as a standard "first
-option" for delivery.
+option" for delivery. Technologists like the word "platform" to mean "a
+collection of technologies and practices." The reason the Web _platform_ makes
+a good "first option" are because of these qualities like these:
 
-The web is an open platform. Unlike the mobile application stores, there are no
-gatekeepers. Everyone can publish applications on the web as long as they
-adhere to a few [open standards][].  This takes us back to Ruby, how can our
-Ruby application work on the web? It's relatively simple-ish. All we need to do
-is adhere to the web standards. To be more specific our Ruby application needs
-to output data that can be published on the web and understood by web browsers.
-Our Ruby application needs to output HTML.
+* The Web is **not bound** to a specific operating system (Windows 10, Mac, or
+  Linux, an internet kiosk on the corner). Its publication standards are
+  [open][]\: they are not the intellectual property of any business and are
+  free for anyone to learn.
+* Web content can be enjoyed on a **variety** of browsers (Google Chrome, Microsoft
+  Edge, Firefox, or even text-only browsers link [`links`][links])
+* Publication to the Web requires **no app store approval**: no gatekeepers, no
+  censors!
+* Browsers automatically **integrate with accessibility features** in the operating
+  system so that those with visual impairment can use your site
+* There is **no publishing cost** for the Web
+* Web publishing software ("web server") code has been **optimized** for decades
+  and is **freely available** and easy to debug
+* While the rise of the iPhone and other smart devices has seen small "apps,"
+  grow in popularity, they are usually little more than thin wrappers around
+  the venerable "browser talks to web server" architecture typical of the Web.
+
+Thus for your application to gain the boost made available by "standing" on the
+**most powerful publication medium ever realized during human civilization**,
+it only has to honor **one** rule: **all screens it provides must be described
+in HTML**.
+
+This takes us back to Ruby, how can our
+Ruby application work on the web? It's relatively simple-ish.
 
 ## Creating Web Applications Is the Art of Generating HTML
 
@@ -32,4 +51,5 @@ interpret HTML.
 Now you know why knowing HTML is important. It's what will allow us to share
 the applications we write with billions of people on the web.
 
-[open standards]: https://www.w3.org/standards/
+[open]: https://www.w3.org/standards/
+[links]: http://links.twibright.com/features.php
