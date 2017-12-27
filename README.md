@@ -39,11 +39,9 @@ in HTML**.
 
 ## Creating Web Applications Is the Art of Generating HTML
 
-It does not matter what programming language we
-use (Ruby, Python, JavaScript).
-
-It's what will allow us to share
-the applications we write with billions of people on the web.
+Regardless the programming language used (Ruby, Python, JavaScript), if the
+application presents screens, or "interfaces" in HTML, it's ready to share its
+capabilities with _billions of people on the Web_ from its very first moment!
 
 [open]: https://www.w3.org/standards/
 [links]: http://links.twibright.com/features.php
