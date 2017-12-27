@@ -1,10 +1,5 @@
 # Transitioning from Ruby to HTML
 
-## We Adore Ruby, and We Love the Web
-
-Over the next few lessons, we hope to convey our love for the
-web.
-
 ## Ruby As a Tool to Write for the Web
 
 Why are we taking this short break from Ruby? Ruby is just a tool. It allows us
