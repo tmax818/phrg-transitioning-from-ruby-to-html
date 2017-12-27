@@ -1,8 +1,14 @@
 # Transitioning from Ruby to HTML
 
-Why are we taking this short break from Ruby? At some
-point, we will want to allow others to use our applications, ideally over the
-web.
+## Introduction
+
+In this course, we will take a short break from Ruby and will focus on HTML.
+You might wonder why we're changing from programming in Ruby, which feels like
+"doing programming," to focusing on HTML which feels like "writing words." Let's
+address that concern.
+
+At some point, we will want to
+allow others to use our applications, ideally over the web.
 
 The web is an open platform. Unlike the mobile application stores, there are no
 gatekeepers. Everyone can publish applications on the web as long as they
