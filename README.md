@@ -42,7 +42,7 @@ in HTML**.
 It does not matter what programming language we
 use (Ruby, Python, JavaScript).
 
-Now you know why knowing HTML is important. It's what will allow us to share
+It's what will allow us to share
 the applications we write with billions of people on the web.
 
 [open]: https://www.w3.org/standards/
