@@ -37,8 +37,6 @@ Thus for your application to gain the boost made available by "standing" on the
 it only has to honor **one** rule: **all screens it provides must be described
 in HTML**.
 
-It's relatively simple-ish.
-
 ## Creating Web Applications Is the Art of Generating HTML
 
 Whenever we are writing a web application, we will inevitably get to the point
