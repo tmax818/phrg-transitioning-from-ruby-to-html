@@ -18,11 +18,11 @@ web.
 
 The web is an open platform. Unlike the mobile application stores, there are no
 gatekeepers. Everyone can publish applications on the web as long as they
-adhere to a few [open standards](https://www.w3.org/standards/).  This takes us
-back to Ruby, how can our Ruby application work on the web? It's relatively
-simple-ish. All we need to do is adhere to the web standards. To be more
-specific our Ruby application needs to output data that can be published on the
-web and understood by web browsers. Our Ruby application needs to output HTML.
+adhere to a few [open standards][].  This takes us back to Ruby, how can our
+Ruby application work on the web? It's relatively simple-ish. All we need to do
+is adhere to the web standards. To be more specific our Ruby application needs
+to output data that can be published on the web and understood by web browsers.
+Our Ruby application needs to output HTML.
 
 ## Creating web applications is the art of generating HTML
 
@@ -34,3 +34,5 @@ interpret HTML.
 
 Now you know why knowing HTML is important. It's what will allow us to share
 the applications we write with billions of people on the web.
+
+[open standards]: https://www.w3.org/standards/
