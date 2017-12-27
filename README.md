@@ -38,15 +38,15 @@ it only has to honor **one** rule: **all screens it provides must be described
 in HTML**.  Regardless the programming language used (Ruby, Python, the NodeJS
 JavaScript environment), if the application presents screens, or "interfaces"
 in HTML, it's ready to share its capabilities with _billions of people on the
-Web_ from its very first moment!
+Web_ from its very first moment "out there!"
 
 ## Creating Web Applications Is the Art of Generating HTML "Interfaces"
 
 Given that the Web will be our publication mechanism for our "interfaces," our
 code will need to generate the "right" HTML. Therefore, you will need to be
 able to "write" the desired HTML and then work backwards to "teach" your
-application (something in Ruby or Python or Java) to generate that same
-content.
+application (something in a programming language like Ruby, Python, or Java) to
+generate that same content.
 
 If you're not confident both with reading and writing HTML, **you won't be able
 to debug your application**. JavaScript rests upon the HTML structure of a
@@ -55,8 +55,10 @@ encounter great frustration with JavaScript. All pathways to web programming
 success rely on strength in HTML. It merits repeating:
 
 <blockquote>
-All pathways to web programming success rely on fluency in HTML.
+All pathways to web programming success rely on strength in HTML.
 </blockquote>
+
+Let's get started!
 
 [open]: https://www.w3.org/standards/
 [links]: http://links.twibright.com/features.php
