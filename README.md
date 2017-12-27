@@ -39,7 +39,7 @@ in HTML**.
 
 ## Creating Web Applications Is the Art of Generating HTML
 
-Whenever we are writing a web application. It does not matter what programming language we
+It does not matter what programming language we
 use (Ruby, Python, JavaScript). At some point, our code will output HTML, and
 if we want to interact with our websites, our code will need to know how to
 generate HTML.
