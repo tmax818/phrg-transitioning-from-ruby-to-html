@@ -18,7 +18,7 @@ a good "first option" is because of these qualities like these:
 * The Web is **not bound** to a specific operating system (Windows 10, Mac, or
   Linux, an internet kiosk on the corner). Its publication standards are
   [open][]\: they are not the intellectual property of any business and are
-  free for anyone to learn.
+  free for anyone to learn
 * Web content can be enjoyed on a **variety** of browsers (Google Chrome, Microsoft
   Edge, Firefox, or even text-only browsers link [`links`][links])
 * Publication to the Web requires **no app store approval**: no gatekeepers, no
