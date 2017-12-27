@@ -6,7 +6,7 @@ Over the next few lessons, we hope to convey our love for the
 web.
 
 Armed with your passion, determination, creativity and the skills you will
-learn throughout this course you will help make the web even better.
+learn.
 
 ## Ruby As a Tool to Write for the Web
 
