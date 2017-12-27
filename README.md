@@ -35,13 +35,13 @@ a good "first option" are because of these qualities like these:
 Thus for your application to gain the boost made available by "standing" on the
 **most powerful publication medium ever realized during human civilization**,
 it only has to honor **one** rule: **all screens it provides must be described
-in HTML**.
+in HTML**.  Regardless the programming language used (Ruby, Python,
+JavaScript), if the application presents screens, or "interfaces" in HTML, it's
+ready to share its capabilities with _billions of people on the Web_ from its
+very first moment!
 
 ## Creating Web Applications Is the Art of Generating HTML
 
-Regardless the programming language used (Ruby, Python, JavaScript), if the
-application presents screens, or "interfaces" in HTML, it's ready to share its
-capabilities with _billions of people on the Web_ from its very first moment!
 
 [open]: https://www.w3.org/standards/
 [links]: http://links.twibright.com/features.php
