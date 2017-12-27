@@ -1,6 +1,6 @@
 # Transitioning from Ruby to HTML
 
-## We adore Ruby, and we love the web
+## We Adore Ruby, and We Love the Web
 
 At Flatiron we adore Ruby, but our true love is for the web. The web is an
 amazing creation. Over the next few lessons, we hope to convey our love for the
@@ -9,7 +9,7 @@ web.
 Armed with your passion, determination, creativity and the skills you will
 learn throughout this course you will help make the web even better.
 
-## Ruby as a tool to write for the web
+## Ruby As a Tool to Write for the Web
 
 Why are we taking this short break from Ruby? Ruby is just a tool. It allows us
 to write code with an incredibly expressive programming language. At some
@@ -24,7 +24,7 @@ is adhere to the web standards. To be more specific our Ruby application needs
 to output data that can be published on the web and understood by web browsers.
 Our Ruby application needs to output HTML.
 
-## Creating web applications is the art of generating HTML
+## Creating Web Applications Is the Art of Generating HTML
 
 Whenever we are writing a web application, we will inevitably get to the point
 where we need to generate HTML. It does not matter what programming language we
