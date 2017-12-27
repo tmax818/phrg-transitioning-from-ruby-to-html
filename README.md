@@ -9,7 +9,7 @@ address that concern.
 
 ## The Web Platform
 
-At some point, we will want to allow others to use our applications, ideally
+At some point, we will want to allow others to use our applications, typically
 over the web.
 
 The web is an open platform. Unlike the mobile application stores, there are no
