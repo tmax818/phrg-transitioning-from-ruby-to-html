@@ -2,8 +2,7 @@
 
 ## We Adore Ruby, and We Love the Web
 
-The web is an
-amazing creation. Over the next few lessons, we hope to convey our love for the
+Over the next few lessons, we hope to convey our love for the
 web.
 
 Armed with your passion, determination, creativity and the skills you will
