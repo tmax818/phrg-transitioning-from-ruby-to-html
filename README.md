@@ -13,7 +13,7 @@ At some point, we will want to allow others to use our applications. Employers,
 technologists, and customers will assume Web integration as a standard "first
 option" for delivery. Technologists like the word "platform" to mean "a
 collection of technologies and practices." The reason the Web _platform_ makes
-a good "first option" are because of these qualities like these:
+a good "first option" is because of these qualities like these:
 
 * The Web is **not bound** to a specific operating system (Windows 10, Mac, or
   Linux, an internet kiosk on the corner). Its publication standards are
