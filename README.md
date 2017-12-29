@@ -7,12 +7,6 @@ You might wonder why we're changing from programming in Ruby, which feels like
 "doing programming," to focusing on HTML which feels like "writing words." Let's
 address that concern.
 
-At some point, we will want to allow others to use our applications. Employers,
-technologists, and customers will assume Web integration as a standard "first
-option" for delivery. Technologists like the word "platform" to mean "a
-collection of technologies and practices." The reason the Web _platform_ makes
-a good "first option" is because of these qualities like these:
-
 * The Web is **not bound** to a specific operating system (Windows 10, Mac, or
   Linux, an internet kiosk on the corner). Its publication standards are
   [open][]\: they are not the intellectual property of any business and are
@@ -41,7 +35,10 @@ Web_ from its very first moment "out there!"
 The web is an amazing creation! As you learn to write clean, conscientious HTML
 in this course, each document you create will help make the web even better!
 **Our** web grows in size and quality when more voices are able to share and
-advance their perspectives on it.
+advance their perspectives on it. **But** you need not be intimidated! Unlike
+Ruby or Python you won't have to learn a new English-like vocabulary (`elsif`
+is not something you use in daily life, nor in HTML!).  Armed with your
+passion, determination, creativity and the skills you will learn.
 
 ## Creating Web Applications Is the Art of Generating HTML "Interfaces"
 
