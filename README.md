@@ -7,8 +7,6 @@ You might wonder why we're changing from programming in Ruby, which feels like
 "doing programming," to focusing on HTML which feels like "writing words." Let's
 address that concern.
 
-## The Web Platform
-
 At some point, we will want to allow others to use our applications. Employers,
 technologists, and customers will assume Web integration as a standard "first
 option" for delivery. Technologists like the word "platform" to mean "a
@@ -40,7 +38,10 @@ JavaScript environment), if the application presents screens, or "interfaces"
 in HTML, it's ready to share its capabilities with _billions of people on the
 Web_ from its very first moment "out there!"
 
-The web is an amazing creation!
+The web is an amazing creation! As you learn to write clean, conscientious HTML
+in this course, each document you create will help make the web even better!
+**Our** web grows in size and quality when more voices are able to share and
+advance their perspectives on it.
 
 ## Creating Web Applications Is the Art of Generating HTML "Interfaces"
 
