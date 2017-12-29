@@ -40,6 +40,8 @@ JavaScript environment), if the application presents screens, or "interfaces"
 in HTML, it's ready to share its capabilities with _billions of people on the
 Web_ from its very first moment "out there!"
 
+The web is an amazing creation!
+
 ## Creating Web Applications Is the Art of Generating HTML "Interfaces"
 
 Given that the Web will be our publication mechanism for our "interfaces," our
