@@ -1,16 +1,64 @@
 # Transitioning from Ruby to HTML
 
-## We adore Ruby, and we love the web
-At Flatiron we adore Ruby, but our true love is for the web. The web is an amazing creation. Over the next few lessons, we hope to convey our love for the web.
+## Introduction
 
-Armed with your passion, determination, creativity and the skills you will learn throughout this course you will help make the web even better.
+In this course, we will take a short break from Ruby and will focus on HTML.
+You might wonder why we're changing from programming in Ruby, which feels like
+"doing programming," to focusing on HTML which feels like "writing words." Let's
+address that concern.
 
-## Ruby as a tool to write for the web
-Why are we taking this short break from Ruby? Ruby is just a tool. It allows us to write code with an incredibly expressive programming language. At some point, we will want to allow others to use our applications, ideally over the web.
+* The Web is **not bound** to a specific operating system (Windows 10, Mac, or
+  Linux, an internet kiosk on the corner). Its publication standards are
+  [open][]\: they are not the intellectual property of any business and are
+  free for anyone to learn
+* Web content can be enjoyed on a **variety** of browsers (Google Chrome, Microsoft
+  Edge, Firefox, or even text-only browsers link [`links`][links])
+* Publication to the Web requires **no app store approval**: no gatekeepers, no
+  censors!
+* Browsers automatically **integrate with accessibility features** in the operating
+  system so that those with visual impairment can use your site
+* There is **no publishing cost** for the Web
+* Web publishing software ("web server") code has been **optimized** for decades
+  and is **freely available** and easy to debug
+* While the rise of the iPhone and other smart devices has seen small "apps,"
+  grow in popularity, they are usually little more than thin wrappers around
+  the venerable "browser talks to web server" architecture typical of the Web.
 
-The web is an open platform. Unlike the mobile application stores, there are no gatekeepers. Everyone can publish applications on the web as long as they adhere to a few [open standards](https://www.w3.org/standards/).  This takes us back to Ruby, how can our Ruby application work on the web? It's relatively simple-ish. All we need to do is adhere to the web standards. To be more specific our Ruby application needs to output data that can be published on the web and understood by web browsers. Our Ruby application needs to output HTML.
+Thus for your application to gain the boost made available by "standing" on the
+**most powerful publication medium ever realized during human civilization**,
+it only has to honor **one** rule: **all screens it provides must be described
+in HTML**.  Regardless the programming language used (Ruby, Python, the NodeJS
+JavaScript environment), if the application presents screens, or "interfaces"
+in HTML, it's ready to share its capabilities with _billions of people on the
+Web_ from its very first moment "out there!"
 
-## Creating web applications is the art of generating HTML
-Whenever we are writing a web application, we will inevitably get to the point where we need to generate HTML. It does not matter what programming language we use (Ruby, Python, JavaScript). At some point, our code will output HTML, and if we want to interact with our websites, our code will need to know how to interpret HTML.
+The web is an amazing creation! As you learn to write clean, conscientious HTML
+in this course, each document you create will help make the web even better!
+**Our** web grows in size and quality when more voices are able to share and
+advance their perspectives on it. **But** you need not be intimidated! Unlike
+Ruby or Python you won't have to learn a new English-like vocabulary (`elsif`
+is not something you use in daily life, nor in HTML!).  Armed with your
+passion, determination, creativity and the skills you will learn.
 
-Now you know why knowing HTML is important. It's what will allow us to share the applications we write with billions of people on the web.
+## Creating Web Applications Is the Art of Generating HTML "Interfaces"
+
+Given that the Web will be our publication mechanism for our "interfaces," our
+code will need to generate the "right" HTML. Therefore, you will need to be
+able to "write" the desired HTML and then work backwards to "teach" your
+application (something in a programming language like Ruby, Python, or Java) to
+generate that same content.
+
+If you're not confident both with reading and writing HTML, **you won't be able
+to debug your application**. JavaScript rests upon the HTML structure of a
+page.  If you're unable to write or reason about that structure, you will
+encounter great frustration with JavaScript. All pathways to web programming
+success rely on strength in HTML. It merits repeating:
+
+<blockquote>
+All pathways to web programming success rely on strength in HTML.
+</blockquote>
+
+Let's get started!
+
+[open]: https://www.w3.org/standards/
+[links]: http://links.twibright.com/features.php
