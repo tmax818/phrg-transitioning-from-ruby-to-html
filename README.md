@@ -17,7 +17,7 @@ a kiosk on a city corner? How can we ensure that your application will have the
 widest audience possible?
 
 Your application can maximize its reach by "standing" on the **most powerful
-publication medium ever realized during human civilization**: the World Wide
+publication medium ever created**: the World Wide
 Web. To benefit from the Web, your application has only to honor **one** rule:
 **all screens it provides must be described in HTML**.  Regardless the
 programming language used (Ruby, Python, the NodeJS JavaScript environment), if
@@ -30,8 +30,7 @@ in this course, each document you create will help make the web even better!
 **Our** web grows in size and quality when more voices are able to share and
 advance their perspectives on it. **But** you need not be intimidated! Unlike
 Ruby or Python you won't have to learn a new English-like vocabulary (`elsif`
-is not something you use in daily life, nor in HTML!).  Armed with your
-passion, determination, creativity and the skills you will learn.
+is not something you use in daily life, nor in HTML!).
 
 ## Creating Web Applications Is the Art of Generating HTML "Interfaces"
 
@@ -42,7 +41,7 @@ application (something in a programming language like Ruby, Python, or Java) to
 generate that same content.
 
 If you're not confident both with reading and writing HTML, **you won't be able
-to debug your application**. JavaScript rests upon the HTML structure of a
+to develop and debug your application**. JavaScript rests upon the HTML structure of a
 page.  If you're unable to write or reason about that structure, you will
 encounter great frustration with JavaScript. All pathways to web programming
 success rely on strength in HTML. It merits repeating:
