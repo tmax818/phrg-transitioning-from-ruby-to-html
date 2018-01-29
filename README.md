@@ -50,4 +50,8 @@ success rely on strength in HTML. It merits repeating:
 All pathways to web programming success rely on strength in HTML.
 </blockquote>
 
+In the upcoming Object-Oriented Ruby section, you will put into practice the HTML and CSS
+skills you will acquire in this section by learning how to 'scrape' (programmatically 
+extract data from web pages) the web.
+
 Let's get started!
