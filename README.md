@@ -55,3 +55,4 @@ skills you will acquire in this section by learning how to 'scrape' (programmati
 extract data from web pages) the web.
 
 Let's get started!
+<p data-visibility='hidden'>PHRG Transitioning from Ruby to HTML</p>
