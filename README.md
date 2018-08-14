@@ -55,4 +55,8 @@ skills you will acquire in this section by learning how to 'scrape' (programmati
 extract data from web pages) the web.
 
 Let's get started!
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-transitioning-from-ruby-to-html/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-transitioning-from-ruby-to-html/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 <p data-visibility='hidden'>PHRG Transitioning from Ruby to HTML</p>
